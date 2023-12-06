@@ -20,10 +20,15 @@ To run:
 Open Powershell/Terminal
 
 cd .. (go back)
+
 cd folder_name
+
 cd \ (go to root/top of directory)
+
 ls (list file names)
+
 ex:
+
 cd C:\Users\username\Documents\CompTIA-Quiz
 
 
